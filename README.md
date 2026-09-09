@@ -45,14 +45,11 @@ O LDR envia um valor analógico para o Arduino através do pino **A0**. O LED é
 
 ---
 
-## 📷 Circuito em Funcionamento
+### 📷Circuito completo
 
+![Imagem do Circuito Completo](
 
-
-### Circuito completo
-
-
-### Montagem na protoboard
+### 📷Montagem na protoboard
 
 
 ---
@@ -182,7 +179,7 @@ O objetivo do projeto é compreender como o Arduino pode:
 - `README.md` — documentação do projeto.
 - `circuito-completo.png` — imagem do circuito completo.
 - `circuito-protoboard.png` — imagem da montagem na protoboard.
-- `codigo_arduino52(1).ino` — código utilizado no Arduino.
+- `codigo_arduino52.ino` — código utilizado no Arduino.
 
 ---
 
