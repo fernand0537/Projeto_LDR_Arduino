@@ -13,10 +13,7 @@ O objetivo é demonstrar, de forma prática, como utilizar um **sensor analógic
 ## 👥 Integrantes da Equipe
 
 - **Leticia Halana** — Instrutora
-- **Nome do integrante** — Integrante
-- **Nome do integrante** — Integrante
-
-> ✏️ *Substitua os nomes acima pelos integrantes da equipe.*
+- **Nome do integrante** — Fernando Alves de Lima
 
 ---
 
@@ -50,13 +47,13 @@ O LDR envia um valor analógico para o Arduino através do pino **A0**. O LED é
 
 ## 📷 Circuito em Funcionamento
 
+
+
 ### Circuito completo
 
-![Circuito completo](circuito-completo.png)
 
 ### Montagem na protoboard
 
-![Montagem na protoboard](circuito-protoboard.png)
 
 ---
 
@@ -90,7 +87,7 @@ void loop() {
 }
 ```
 
-O código acima corresponde ao arquivo fornecido para o projeto. fileciteturn1file0L10-L30
+O código acima corresponde ao arquivo fornecido para o projeto. 
 
 ---
 
@@ -130,8 +127,7 @@ O programa verifica se o valor do LDR é maior que **1000**:
 if (valor_ldr > 1000)
 ```
 
-Quando essa condição é verdadeira, o LED é ligado. Caso contrário, o LED é desligado. Em ambos os casos, existe um intervalo de **1 segundo** entre as ações. fileciteturn1file0L24-L30
-
+Quando essa condição é verdadeira, o LED é ligado. Caso contrário, o LED é desligado. Em ambos os casos, existe um intervalo de **1 segundo** entre as ações. 
 ---
 
 ## 🔄 Fluxo de Funcionamento
