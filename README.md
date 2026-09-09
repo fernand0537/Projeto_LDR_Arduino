@@ -47,10 +47,11 @@ O LDR envia um valor analógico para o Arduino através do pino **A0**. O LED é
 
 ### 📷Circuito completo
 
-![Imagem do Circuito Completo](
+![Texto alternativo para acessibilidade](https://github.com/fernand0537/Projeto_LDR_Arduino/blob/main/Captura%20de%20tela%202026-09-08%20084645.png?raw=true)
 
 ### 📷Montagem na protoboard
 
+![Texto alternativo para acessibilidade]
 
 ---
 
